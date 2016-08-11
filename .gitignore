@@ -1,0 +1,17 @@
+## Binaries
+bin/
+lib/
+
+## CMake files
+CMakeFiles/
+CMakeCache.txt
+*.cmake
+
+## Vim files
+*.swp
+
+## Visual Studio files
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.sln
